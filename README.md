@@ -16,3 +16,9 @@ The module focused more on bootstrap and advanced CSS concepts
  <li>Combining Selectors(Non-hierarchical,Hierarchical Selectors,Multiple Selectors)</li>
  <li>Selector Priority</li>
 </ul>
+<h3>Preview of the site</h3>
+<img src="tindog1.PNG" alt="Tittle" >
+<img src="tindog2.PNG" alt="feature" >
+<img src="tindog3.PNG" alt="testrimonial" >
+<img src="tindog4.PNG" alt="pricing" >
+<img src="tindog5.PNG" alt="download" >
