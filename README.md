@@ -1,5 +1,5 @@
 # Tindog
-Tindog is a website desin based on an idea of dog dating site.
+Tindog is a website design based on an idea of dog dating site.
 This site idea and design is inspired from fullstack webdev course of Angelena Yu.
 The module focused more on bootstrap and advanced CSS concepts 
 <h3>Concepts that i have learnt  </h3>
